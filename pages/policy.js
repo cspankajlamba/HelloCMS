@@ -1,8 +1,9 @@
 // about.js
-import '/home/cspankaj/Desktop/PractiSpace/NextJa/app/global.css'
+import '../app/global.css'
 import React from 'react';
-import Header from '/home/cspankaj/Desktop/PractiSpace/NextJa/app/components/Header.js';
-import Footer from '/home/cspankaj/Desktop/PractiSpace/NextJa/app/components/Footer.js';
+import style from './pages.module.css'
+import Header from '../app/components/Header.js';
+import Footer from '../app/components/Footer.js';
 
 
 const PolicyPage = () => {
