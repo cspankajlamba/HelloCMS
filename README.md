@@ -1,6 +1,6 @@
-# HelloCRM
-HelloCRM CRM
-An customer relationship management platform (CRM).
+# HelloCMS
+HelloCMS CMS
+An customer relationship management platform (CMS).
 Out of the box it features group collaboration, campaign and lead management, contact lists, and opportunity tracking.
 
 Create Contacts
@@ -11,7 +11,7 @@ Tasks
 Pull requests and bug reports are always welcome!
 
 For Developers
-HelloCRM is released under the MIT license and is available for you to use for your own purposes. We do encourage contributions to make HelloCRM even better. Send us a pull-request and we'll do our best to accommodate your needs.
+HelloCMS is released under the MIT license and is available for you to use for your own purposes. We do encourage contributions to make HelloCMS even better. Send us a pull-request and we'll do our best to accommodate your needs.
 
 The copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
