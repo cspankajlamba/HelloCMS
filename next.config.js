@@ -1,11 +1,8 @@
-// next.config.js
-
 const path = require('path');
 
 module.exports = {
   basePath: '/HelloCMS', // Change 'your-repo-name' to your actual repository name
   assetPrefix: '/HelloCMS/', // Change 'your-repo-name' to your actual repository name
-  target: 'experimental-serverless-trace',
   webpack: (config, { isServer }) => {
     if (!isServer) {
       config.node = {
