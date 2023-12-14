@@ -1,0 +1,27 @@
+// styles.scss
+
+$displayFlex: flex;
+$flexDirectionRow: row;
+$flexDirectionCol: column;
+$justifyContentSpaceBetween: space-between;
+$justifyContentCenter : center;
+$alignItemsCenter : center;
+$gap1 : .8rem;
+$gap2: 1rem;
+$None : none;
+
+:export {
+  m20: 1.5rem;
+  p10: .8rem;
+  p20: 1.5rem;
+  b_rad: 0.5rem;
+  dflex: $displayFlex;
+  fRow: $flexDirectionRow;
+  fCol: $flexDirectionCol;
+  jcSB: $justifyContentSpaceBetween;
+  jcC : $justifyContentCenter;
+  alC : $alignItemsCenter;
+  gp10 : $gap1;
+  gp20 : $gap2;
+  listStyle: $None;
+}

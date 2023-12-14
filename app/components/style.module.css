@@ -1,0 +1,50 @@
+.logo a{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+
+}
+.sidebar{
+    position: sticky;
+    top: 150px;
+
+}
+.footer{
+    border-top: .1rem solid #e4e3e1;
+    position: sticky;
+    bottom: 0;
+    min-width: 100%;
+}
+
+.menuItem{
+    text-decoration: none;
+    padding: .5rem 3rem;
+    width: 100%;
+}
+
+.menuItem:hover{
+    color: #0174e6;
+    background-color: #fff;
+    border-top: .1rem solid #e4e3e1;
+    border-bottom: .1rem solid #e4e3e1;
+}
+.menuItem:visited{
+    color: currentColor;
+}
+
+.searchBtn{
+    cursor: pointer;
+    border: none;
+    background-color: #fff;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+.searchBox{
+    display: flex;
+    align-items: center;
+}

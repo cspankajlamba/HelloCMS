@@ -1,0 +1,27 @@
+- NEXTJA
+  |- .next                        # Directory for Next.js build output
+  |- app                          # Main application directory
+  |  |- dashboard                # Dashboard-related components
+  |  |  |- analytics             # Analytics-related components
+  |  |  |- settings              # Settings-related components
+  |  |  |- error.js              # Error handling component
+  |  |  |- layout.js             # Dashboard layout component
+  |  |  |- page.js               # Dashboard page component
+  |  |  |- styles.module.css     # CSS module for styles
+  |  |- global-error.js          # Global error handling component
+  |  |- global.css               # Global CSS styles
+  |  |- layout.js                # General layout component
+  |  |- manifest.js              # Manifest file
+  |  |- not-found.js             # Not found (404) page component
+  |  |- page.js                  # General page component
+  |  |- robots.js                # Robots file
+  |  |- sitemap.js               # Sitemap configuration
+  |  |- variables.module.scss    # SCSS variables module
+  |- pages                        # Pages directory
+  |- feed                         # Feed-related components
+  |  |- loading.js               # Loading component for feeds
+  |- public                       # Public directory for static assets
+  |  |- me.png                   # Image file (e.g., a profile picture)
+  |- next.config.js               # Configuration file for Next.js
+  |- package-lock.json            # Dependency lock file
+  |- package.json                 # Project configuration and dependencies
